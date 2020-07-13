@@ -1114,14 +1114,17 @@ section.lazy-placeholder:after {
   color: #ff3366 !important;
 }
 .cid-s37VAVbUku {
-  padding-top: 90px;
-  padding-bottom: 15px;
   background-image: url("../../../assets/images/forestbridge.jpg");
+}
+.cid-s4BYO3Lg8b {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-s38mDrkdZX {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #b2ccd2;
+  background-color: #ff7f9f;
 }
 .cid-s38mDrkdZX h4 {
   font-weight: 500;
