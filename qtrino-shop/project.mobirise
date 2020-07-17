@@ -54,7 +54,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "htmltag": "undefined"
   },
   "pages": {
     "shop.html": {
