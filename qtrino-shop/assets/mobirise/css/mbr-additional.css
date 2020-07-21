@@ -1908,6 +1908,52 @@ section.lazy-placeholder:after {
 .cid-s5awl40vg6 H2 {
   color: #cc2952;
 }
+.cid-s5lBP950U8 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s5lBP950U8 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s5lBP950U8 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-s5lBP950U8 .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s5lBP950U8 .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s5lBP950U8 .mbr-text {
+  color: #767676;
+}
+.cid-s5lBP950U8 .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s5lBP950U8 .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-s5lBP950U8 .card-title {
+  text-align: center;
+  color: #0f7699;
+}
+.cid-s5lBP950U8 .mbr-text,
+.cid-s5lBP950U8 .mbr-section-btn {
+  text-align: center;
+  color: #7b4abe;
+}
+.cid-s5lBP950U8 H2 {
+  color: #cc2952;
+}
 .cid-s5b1jNRNkU {
   padding-top: 60px;
   padding-bottom: 0px;
