@@ -791,7 +791,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(197, 82, 137, 0.9);
+  background: #c55289;
 }
 .cid-sjNt1pmpvG .navbar.opened {
   transition: all 0.3s;
@@ -1118,7 +1118,7 @@ a {
   background-color: #c66d98;
 }
 .cid-skFZd9ZVkz {
-  background-image: linear-gradient(330deg, #4479d9 10%, #c55289 100%) !important;
+  background-image: linear-gradient(317deg, #4479d9 10%, #c55289 100%) !important;
 }
 .cid-skFZd9ZVkz .mbr-text,
 .cid-skFZd9ZVkz .mbr-section-btn {
@@ -1227,7 +1227,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(197, 82, 137, 0.9);
+  background: #c55289;
 }
 .cid-sjNt1pmpvG .navbar.opened {
   transition: all 0.3s;
@@ -1475,7 +1475,7 @@ a {
   }
 }
 .cid-skE0DKRgWn {
-  padding-top: 2rem;
+  padding-top: 4rem;
   padding-bottom: 0rem;
   background-color: #4479d9;
 }
@@ -1501,14 +1501,6 @@ a {
 .cid-skDZ0gZkYD .item {
   cursor: pointer;
   margin-bottom: 2rem;
-}
-.cid-skDZ0gZkYD .row {
-  margin-left: 0;
-  margin-right: 0;
-}
-.cid-skDZ0gZkYD .item {
-  padding: 0;
-  margin: 0;
 }
 .cid-skDZ0gZkYD .item-wrapper {
   position: relative;
@@ -1661,7 +1653,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(197, 82, 137, 0.9);
+  background: #c55289;
 }
 .cid-sjNt1pmpvG .navbar.opened {
   transition: all 0.3s;
@@ -2021,7 +2013,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(197, 82, 137, 0.9);
+  background: #c55289;
 }
 .cid-sjNt1pmpvG .navbar.opened {
   transition: all 0.3s;
