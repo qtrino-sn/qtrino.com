@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Qtrino",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -59,7 +59,7 @@
     "uniqCompNum": 28,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-171516076-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-171516076-1');\n</script>\n\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-171516076-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-171516076-1');\n</script>\n\n\n\n\n<script data-ad-client=\"ca-pub-2531324277496377\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
