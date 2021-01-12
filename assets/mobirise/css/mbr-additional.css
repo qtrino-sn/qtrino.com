@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i&display=swap);
 
 
 
@@ -41,12 +42,12 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Jost', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.1rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.375rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -80,9 +81,9 @@ body {
     line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.88rem;
+    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -692,8 +693,6 @@ a {
 .cid-sjNt1pmpvG {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjNt1pmpvG nav.navbar {
   position: fixed;
@@ -759,7 +758,7 @@ a {
 }
 .cid-sjNt1pmpvG .dropdown-menu,
 .cid-sjNt1pmpvG .navbar.opened {
-  background: #ffffff !important;
+  background: #fafafa !important;
 }
 .cid-sjNt1pmpvG .nav-item:focus,
 .cid-sjNt1pmpvG .nav-link:focus {
@@ -793,8 +792,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  position: absolute;
+  background: #fafafa;
 }
 .cid-sjNt1pmpvG .navbar.opened {
   transition: all 0.3s;
@@ -939,7 +938,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sjNt1pmpvG .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #fafafa;
 }
 .cid-sjNt1pmpvG .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -970,7 +969,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #007e8f;
+  background-color: #009db3;
 }
 .cid-sjNt1pmpvG button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1122,16 +1121,19 @@ a {
   background-color: #ef5407;
 }
 .cid-skFZd9ZVkz {
-  background-image: linear-gradient(358deg, #4479d9 10%, #c55289 100%) !important;
+  background-image: linear-gradient(358deg, #fafafa 10%, #fafafa 100%) !important;
 }
 .cid-skFZd9ZVkz .mbr-text,
 .cid-skFZd9ZVkz .mbr-section-btn {
-  color: #fafafa;
+  color: #969494;
+}
+.cid-skFZd9ZVkz .mbr-section-title {
+  color: #ff5e0e;
 }
 .cid-slLITts3zC {
   padding-top: 3rem;
   padding-bottom: 9rem;
-  background-color: #4479d9;
+  background-color: #fafafa;
 }
 .cid-slLITts3zC .mbr-overlay {
   background-color: #ffffff;
@@ -1150,13 +1152,11 @@ a {
   }
 }
 .cid-slLITts3zC .mbr-section-title {
-  color: #fafafa;
+  color: #ff5e0e;
 }
 .cid-sjNt1pmpvG {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjNt1pmpvG nav.navbar {
   position: fixed;
@@ -1222,7 +1222,7 @@ a {
 }
 .cid-sjNt1pmpvG .dropdown-menu,
 .cid-sjNt1pmpvG .navbar.opened {
-  background: #ffffff !important;
+  background: #fafafa !important;
 }
 .cid-sjNt1pmpvG .nav-item:focus,
 .cid-sjNt1pmpvG .nav-link:focus {
@@ -1256,8 +1256,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  position: absolute;
+  background: #fafafa;
 }
 .cid-sjNt1pmpvG .navbar.opened {
   transition: all 0.3s;
@@ -1402,7 +1402,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sjNt1pmpvG .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #fafafa;
 }
 .cid-sjNt1pmpvG .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1583,8 +1583,6 @@ a {
 .cid-sjNt1pmpvG {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjNt1pmpvG nav.navbar {
   position: fixed;
@@ -1650,7 +1648,7 @@ a {
 }
 .cid-sjNt1pmpvG .dropdown-menu,
 .cid-sjNt1pmpvG .navbar.opened {
-  background: #ffffff !important;
+  background: #fafafa !important;
 }
 .cid-sjNt1pmpvG .nav-item:focus,
 .cid-sjNt1pmpvG .nav-link:focus {
@@ -1684,8 +1682,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  position: absolute;
+  background: #fafafa;
 }
 .cid-sjNt1pmpvG .navbar.opened {
   transition: all 0.3s;
@@ -1830,7 +1828,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sjNt1pmpvG .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #fafafa;
 }
 .cid-sjNt1pmpvG .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1945,8 +1943,6 @@ a {
 .cid-sjNt1pmpvG {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sjNt1pmpvG nav.navbar {
   position: fixed;
@@ -2012,7 +2008,7 @@ a {
 }
 .cid-sjNt1pmpvG .dropdown-menu,
 .cid-sjNt1pmpvG .navbar.opened {
-  background: #ffffff !important;
+  background: #fafafa !important;
 }
 .cid-sjNt1pmpvG .nav-item:focus,
 .cid-sjNt1pmpvG .nav-link:focus {
@@ -2046,8 +2042,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  position: absolute;
+  background: #fafafa;
 }
 .cid-sjNt1pmpvG .navbar.opened {
   transition: all 0.3s;
@@ -2192,7 +2188,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sjNt1pmpvG .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #fafafa;
 }
 .cid-sjNt1pmpvG .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
