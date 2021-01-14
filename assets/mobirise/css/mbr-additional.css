@@ -1132,7 +1132,7 @@ a {
 }
 .cid-slLITts3zC {
   padding-top: 3rem;
-  padding-bottom: 9rem;
+  padding-bottom: 1rem;
   background-color: #fafafa;
 }
 .cid-slLITts3zC .mbr-overlay {
@@ -1504,18 +1504,31 @@ a {
     left: -1rem;
   }
 }
+.cid-sm4DrHvpt3 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
+}
+.cid-sm4DrHvpt3 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sm4DrHvpt3 .mbr-section-title,
+.cid-sm4DrHvpt3 .mbr-section-subtitle,
+.cid-sm4DrHvpt3 .mbr-text {
+  text-align: center;
+}
 .cid-skE0DKRgWn {
   padding-top: 4rem;
   padding-bottom: 0rem;
-  background-color: #47b5ed;
+  background-color: #ffffff;
 }
 .cid-skE0DKRgWn .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-skDZ0gZkYD {
   padding-top: 3rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/luke-chesser-pjadqetztki-unsplash.jpg");
+  background-color: #fafafa;
 }
 .cid-skDZ0gZkYD img,
 .cid-skDZ0gZkYD .item-img {
@@ -1535,7 +1548,7 @@ a {
 .cid-skDZ0gZkYD .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #fafafa;
+  background: #bed3f9;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1560,7 +1573,7 @@ a {
   margin-top: auto !important;
 }
 .cid-skDZ0gZkYD .mbr-section-title {
-  color: #ffffff;
+  color: #ff5e0e;
 }
 .cid-skDZ0gZkYD .mbr-text,
 .cid-skDZ0gZkYD .mbr-section-btn {
