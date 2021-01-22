@@ -50,14 +50,15 @@
     "gdpr": false,
     "uniqCompNum": 36,
     "versionPublish": "5.2.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Ads: 617742600 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-617742600\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-617742600');\n</script>\n\n"
   },
   "pages": {
     "Baby Products.html": {
       "settings": {
         "main": true,
         "title": "Baby Products",
-        "meta_descr": "",
+        "meta_descr": "we bring you the best baby products available across the online store which are most trusted to every parents. The store shows you the best Baby necessary utensils which includes Baby Cares, Baby Carriers, Baby Clothings, Baby Safety,\nBaby Shoes, Baby Bedding, Baby Furniture & Room Decor, Baby Car Seats & Accessories, Baby Diapering & Nappy Changing, Baby Feeding, Gift Packs etc. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
