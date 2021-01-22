@@ -51,7 +51,7 @@
     "uniqCompNum": 36,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Ads: 617742600 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-617742600\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-617742600');\n</script>\n\n"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Ads: 617742600 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-617742600\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-617742600');\n</script>\n<!-- Event snippet for Website traffic conversion page -->\n<script>\n  gtag('event', 'conversion', {'send_to': 'AW-617742600/RGXaCIX4mPIBEIiCyKYC'});\n</script>\n\n\n"
   },
   "pages": {
     "Baby Products.html": {
