@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Qtrino",
-    "currentPage": "QtrinoAcademy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -71,9 +71,9 @@
     "favicon": false,
     "imageResize": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://www.qtrino.com",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 59,
