@@ -6,7 +6,7 @@ document.getElementById("nav").innerHTML =
 +'</label>'
 +'<label class="logo">'
 +  '<a href="/"><img src="/assets/logo/qtrino.ico" alt="icon"></a>'
-+  '<span> Brand Name</span>'
++  '<span> Qtrino</span>'
 +'</label>'
 +'<ul id="">'
 +  '<li><a id="home" href="/">Home</a></li>'
