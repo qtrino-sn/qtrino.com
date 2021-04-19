@@ -37,7 +37,7 @@ document.getElementById("foot").innerHTML =
 +'<div class="about">'
 +  '<h3>About Us</h3>'
 + '<p>'
-+ 'Qtrino brings to you amazing contants on science and technology.'
++ 'Qtrino brings you amazing contents.'
 + '.Read more <a href="/help/about-us.html">about us..</a>'
 + '</p>'
 +'</div>';
