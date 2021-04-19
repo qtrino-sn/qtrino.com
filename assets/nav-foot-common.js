@@ -18,32 +18,6 @@ document.getElementById("nav").innerHTML =
 +  '<li><a style="padding-right:0px;" class="social" href="https://www.youtube.com/channel/UCSSmITU7-0-qr6D9xqlQMVA?sub_confirmation=1"><img src="/assets/logo/qtube.png" alt="youtube"></a></li>'
 +'</ul>';
 
-document.getElementById("foot").innerHTML =
-'<div class="help">'
-+  '<h3>Help</h3>'
-+  '<a class="contact" href="/help/contact.html">Contact</a>'
-+  '<a href="/help/privacy.html">Privacy Policy</a>'
-+  '<a href="/help/sitemap.html">Sitemap</a>'
-+'</div>'
-+'<div class="services">'
-+  '<h3>Services</h3>'
-+  '<a href="/product.html">Products</a>'
-+  '<a href="/blog.html">Blogs</a>'
-+'</div>'
-+'<div class="web-links">'
-+  '<h3>Web Links</h3>'
-+  '<a href="https://www.qtrino.com">qtrino.com</a>'
-+'</div>'
-+'<div class="about">'
-+  '<h3>About Us</h3>'
-+ '<p>'
-+'Qtrino academy provides you the learning contents on Science & Technology, primarily on Electronics'
-+' and computing. Qtrino Shopping helps you finding the best product available on the online market in'
-+' the smartest way.'
-+ ' Read more <a href="/help/about-us.html">about us..</a>'
-+ '</p>'
-+'</div>';
-
 
 
 var d = new Date();
