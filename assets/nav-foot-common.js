@@ -15,7 +15,7 @@ document.getElementById("nav").innerHTML =
 +  '<li><a class="social" href="https://www.facebook.com/qtrino"><img src="/assets/logo/fb.png" alt="fb"></a></li>'
 +  '<li><a class="social" href="https://www.instagram.com/_qtrino"><img src="/assets/logo/instra.png" alt="instra"></a></li>'
 +  '<li><a class="social" href="https://twitter.com/qtrino1"><img src="/assets/logo/twit.png" alt="twitter"></a></li>'
-+  '<li><a class="social" href="https://www.youtube.com/channel/UCSSmITU7-0-qr6D9xqlQMVA?sub_confirmation=1"><img src="/assets/logo/qtube.png" alt="youtube"></a></li>'
++  '<li><a style="padding-right:0;" class="social" href="https://www.youtube.com/channel/UCSSmITU7-0-qr6D9xqlQMVA?sub_confirmation=1"><img src="/assets/logo/qtube.png" alt="youtube"></a></li>'
 +'</ul>';
 
 document.getElementById("foot").innerHTML =
@@ -37,7 +37,7 @@ document.getElementById("foot").innerHTML =
 +'<div class="about">'
 +  '<h3>About Us</h3>'
 + '<p>'
-+ 'brief description about us'
++ 'Qtrino brings to you amazing contants on science and technology.'
 + '.Read more <a href="/help/about-us.html">about us..</a>'
 + '</p>'
 +'</div>';
