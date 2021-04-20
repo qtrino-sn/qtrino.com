@@ -5,7 +5,7 @@ document.getElementById("common-head").innerHTML =
 +'<meta name="viewport" content="width=device-width, initial-scale=1.0">'
 +'<link rel="shortcut icon" href="/assets/logo/qtrino.ico" type="image/x-icon">'
 +'<style>'+'#'+ current +'{background-color: #16a5b5; color:white;}'+'</style>'
-//google analytics code for tracking: 
+//google analytics code for tracking:
 +'<!-- Global site tag (gtag.js) - Google Analytics -->'
 +'<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172973967-1"></script>'
 +'<script>'
@@ -77,6 +77,10 @@ document.getElementById("gotop").innerHTML =
 +'Back to top'
 +' &#8679;'
 +'</a>';
+
+
+//codes---------->
+document.getElementById("code").innerHTML =
 
 
 
