@@ -4,7 +4,16 @@ document.getElementById("common-head").innerHTML =
 '<meta charset="utf-8">'
 +'<meta name="viewport" content="width=device-width, initial-scale=1.0">'
 +'<link rel="shortcut icon" href="/assets/logo/qtrino.ico" type="image/x-icon">'
-+'<style>'+'#'+ current +'{background-color: #16a5b5; color:white;}'+'</style>';
++'<style>'+'#'+ current +'{background-color: #16a5b5; color:white;}'+'</style>'
+//google analytics code:
++'<!-- Global site tag (gtag.js) - Google Analytics -->'
++'<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172973967-1"></script>'
++'<script>'
++  'window.dataLayer = window.dataLayer || [];'
++  'function gtag(){dataLayer.push(arguments);}'
++  'gtag('js', new Date());'
++  'gtag('config', 'UA-172973967-1');'
++'</script>';
 
 document.getElementById("nav").innerHTML =
 '<input type="checkbox" id="check">'
