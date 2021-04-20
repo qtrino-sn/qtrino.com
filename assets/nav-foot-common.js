@@ -4,7 +4,7 @@ document.getElementById("common-head").innerHTML =
 '<meta charset="utf-8">'
 +'<meta name="viewport" content="width=device-width, initial-scale=1.0">'
 +'<link rel="shortcut icon" href="/assets/logo/qtrino.ico" type="image/x-icon">'
-+'<style>'+'#'+ current +'{background-color: #16a5b5; color:white;}'+'</style>'
++'<style>'+'#'+ current +'{background-color: #16a5b5; color:white;}'+'</style>';
 
 
 
@@ -72,8 +72,16 @@ document.getElementById("gotop").innerHTML =
 +'</a>';
 
 
-
-
+document.getElementById("code").innerHTML =
+//google analytics
+'<!-- Global site tag (gtag.js) - Google Analytics -->'
++'<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172973967-1"></script>'
++'<script>'
++  "window.dataLayer = window.dataLayer || [];"
++  "function gtag(){dataLayer.push(arguments);}"
++  "gtag('js', new Date());"
++  "gtag('config', 'UA-172973967-1');"
++'</script>';
 
 
 /*var blog_no=document.getElementsByClassName("share");
