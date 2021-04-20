@@ -1,3 +1,10 @@
+var current = document.getElementById("current").innerHTML;
+
+document.getElementById("common-head").innerHTML =
+'<meta charset="utf-8">'
++'<meta name="viewport" content="width=device-width, initial-scale=1.0">'
++'<link rel="shortcut icon" href="/assets/logo/qtrino.ico" type="image/x-icon">'
++'<style>'+'#'+ current +'{background-color: #16a5b5; color:white;}'+'</style>';
 
 document.getElementById("nav").innerHTML =
 '<input type="checkbox" id="check">'
