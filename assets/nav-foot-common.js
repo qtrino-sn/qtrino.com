@@ -74,7 +74,7 @@ document.getElementById("gotop").innerHTML =
 
 document.getElementById("code").innerHTML =
 //google analytics
-'<!-- Global site tag (gtag.js) - Google Analytics -->'
+"<!-- Global site tag (gtag.js) - Google Analytics -->"
 +'<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172973967-1"></script>'
 +'<script>'
 +  "window.dataLayer = window.dataLayer || [];"
@@ -82,14 +82,3 @@ document.getElementById("code").innerHTML =
 +  "gtag('js', new Date());"
 +  "gtag('config', 'UA-172973967-1');"
 +'</script>';
-
-
-/*var blog_no=document.getElementsByClassName("share");
-var i=0;
-for (i = 0; i < blog_no.length; i++) {
-   document.getElementsByClassName("share")[i].innerHTML=
-   '<a class="social" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qtrino.com"><img src="/assets/social/fb.png" alt="fb"></a>'
-+  '<a class="social" href="https://www.instagram.com/_qtrino"><img src="/assets/social/twitter.png" alt="instra"></a>'
-+  '<a class="social" href="https://twitter.com/qtrino1"><img src="/assets/social/redit.png" alt="twitter"></a>'
-+  '<a class="social" href="https://twitter.com/qtrino1"><img src="/assets/social/whatsapp.png" alt="twitter"></a>'
-}*/
