@@ -69,13 +69,17 @@ document.getElementById("gotop").innerHTML =
 +'</a>';
 
 
-document.getElementById("code").innerHTML =
-//google analytics
-"<!-- Global site tag (gtag.js) - Google Analytics -->"
+document.getElementById("header-codes").innerHTML =
+
+'<!-- Global site tag (gtag.js) - Google Analytics -->'
 +'<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172973967-1"></script>'
 +'<script>'
-+  "window.dataLayer = window.dataLayer || [];"
-+  "function gtag(){dataLayer.push(arguments);}"
-+  "gtag('js', new Date());"
-+  "gtag('config', 'UA-172973967-1');"
-+'</script>';
++  'window.dataLayer = window.dataLayer || []';
+
++ ' function gtag() {'
++    'dataLayer.push(arguments);'
++ ' }'
++ "gtag('js', new Date());"
+
++ " gtag('config', 'UA-172973967-1');
+</script>"
