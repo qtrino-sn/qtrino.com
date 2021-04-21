@@ -81,5 +81,5 @@ document.getElementById("header-codes").innerHTML =
 + ' }'
 + "gtag('js', new Date());"
 
-+ " gtag('config', 'UA-172973967-1');
++ " gtag('config', 'UA-172973967-1');"
 +"</script>";
