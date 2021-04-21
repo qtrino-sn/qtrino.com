@@ -66,11 +66,11 @@ document.getElementById("gotop").innerHTML =
 '<a href="#top">'
 +'Back to top'
 +' &#8679;'
-+'</a>';
++"</a>";
 
 
 var head = document.getElementById("head").innerHTML;
-document.getElementById("head").innerHTML=head
+document.getElementById("head").innerHTML=
 +'<!-- Global site tag (gtag.js) - Google Analytics -->'
 +'<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172973967-1"></script>'
 +'<script>'
@@ -82,4 +82,5 @@ document.getElementById("head").innerHTML=head
 + "gtag('js', new Date());"
 
 + " gtag('config', 'UA-172973967-1');"
-+"</script>";
++"</script>"
++ head;
