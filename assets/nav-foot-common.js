@@ -69,9 +69,9 @@ document.getElementById("gotop").innerHTML =
 +'</a>';
 
 
-document.getElementById("header-codes").innerHTML =
+document.getElementById("head").innerHTML =
 
-'<!-- Global site tag (gtag.js) - Google Analytics -->'
++'<!-- Global site tag (gtag.js) - Google Analytics -->'
 +'<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172973967-1"></script>'
 +'<script>'
 +  'window.dataLayer = window.dataLayer || []';
