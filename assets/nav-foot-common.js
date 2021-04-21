@@ -15,7 +15,7 @@ document.getElementById("nav").innerHTML =
 +  '<span> Qtrino</span>'
 +'</label>'
 +'<ul id="">'
-+  '<li><a id="home" href="/">Home</a></li>'
++  '<li><a id="home" href="/index.html">Home</a></li>'
 +  '<li><a id="product" href="/product.html">Products</a></li>'
 +  '<li><a id="blog" href="/blog.html">Blogs</a></li>'
 +  '<li><a class="social" href="https://www.facebook.com/qtrino"><img src="/assets/logo/fb.png" alt="fb"></a></li>'
