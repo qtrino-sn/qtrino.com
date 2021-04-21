@@ -11,7 +11,7 @@ document.getElementById("nav").innerHTML =
 +  '&#x2630;'
 +'</label>'
 +'<label class="logo">'
-+  '<a href="/"><img src="/assets/logo/qtrino.ico" alt="icon"></a>'
++  '<a href="/index.html"><img src="/assets/logo/qtrino.ico" alt="icon"></a>'
 +  '<span> Qtrino</span>'
 +'</label>'
 +'<ul id="">'
