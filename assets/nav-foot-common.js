@@ -56,7 +56,7 @@ var m = d.toDateString();
 var month = m;
 document.title
 document.getElementById("copyright").innerHTML =
-'© Copyright Brand - All Rights Reserved '
+'© Copyright Qtrino - All Rights Reserved '
 +'['+year+']';
 
 var x= document.title;
