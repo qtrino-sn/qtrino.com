@@ -40,7 +40,7 @@ document.getElementById("foot").innerHTML =
 +'<div class="web-links">'
 +  '<h3>Others</h3>'
 +  '<a href="/blog.html">Blogs</a>'
-+  '<a href="/Product.html">Product Reviews</a>'
++  '<a href="/product.html">Product Reviews</a>'
 +'</div>'
 +'<div class="about">'
 +  '<h3>About Us</h3>'
